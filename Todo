@@ -1,0 +1,4 @@
+  git init
+  git add main.js preload.js index.html renderer.js package.json
+  package-lock.json .gitignore README.md
+  git commit -m "Initial commit of Electron note-taking app
